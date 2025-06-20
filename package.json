@@ -1,0 +1,19 @@
+{
+  "name": "web-payout-ui-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9",
+    "playwright": "^1.50.1",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "winston": "^3.17.0"
+  }
+}
